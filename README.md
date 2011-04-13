@@ -12,6 +12,6 @@ Para ejecutar:
 
 1.  Correr `javac` para compilar las clases.
 2.  Correr `rmic` en los archivos que implementan las interfaces remotas (_*Impl_).
-3.  Correr `rmirgistry`.
+3.  Correr `rmiregistry`.
 4.  Ejecutar **TriquiServer** y **TriquiClient**.
 
